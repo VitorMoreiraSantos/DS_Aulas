@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+  }
+  
+  #texto, #questionario {
+    width: 45%;
+  }
+  
+  form ol {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  form ol li {
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questionário</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Levantamento de linguagens para desenvolvimento de aplicativos mobile</h1>
+    </header>
+
+    <div class="container">
+        <section id="texto">
+            <h1>Pesquisa</h1>
+            <h2>Java</h2>
+            <p>Java é uma das linguagens mais antigas e populares para o desenvolvimento de aplicativos Android. É uma linguagem de programação de propósito geral e orientada a objetos, amplamente utilizada para criar uma variedade de aplicativos Android, desde aplicativos simples até aplicativos mais complexos e robustos.</p>
+            </br>
+            <h2>Kotlin</h2>
+            <p>Kotlin é uma linguagem de programação moderna, concisa e segura que foi introduzida pela Google como uma alternativa oficial ao Java para o desenvolvimento de aplicativos Android. Ela oferece muitos recursos que tornam o desenvolvimento mais rápido e fácil, além de interoperabilidade perfeita com o código Java existente.</p>
+            </br>
+            <h2>Swift</h2>
+            <p>Swift é a linguagem de programação preferida para o desenvolvimento de aplicativos iOS e macOS. Foi desenvolvida pela Apple como uma substituição para Objective-C, oferecendo uma sintaxe mais concisa, segurança de tipo melhorada e várias outras melhorias de linguagem.</p>
+            </br>
+            <h2>Objective-C</h2>
+            <p>Embora esteja sendo gradualmente substituído pelo Swift, Objective-C ainda é usado para desenvolver aplicativos iOS, especialmente em projetos mais antigos. É uma linguagem de programação orientada a objetos que tem sido usada pela comunidade de desenvolvedores iOS por muitos anos.</p>
+            </br>
+            <h2>JavaScript (com frameworks como React Native e NativeScript)</h2>
+            <p>JavaScript é uma linguagem de programação popular para o desenvolvimento web, mas também é usada para criar aplicativos móveis com frameworks como React Native e NativeScript. Esses frameworks permitem que os desenvolvedores criem aplicativos móveis multiplataforma usando JavaScript, compartilhando grande parte do código entre as plataformas iOS e Android.</p>
+            </br>
+            <h2>Dart (com Flutter)</h2>
+            <p>Dart é uma linguagem de programação desenvolvida pela Google, e Flutter é um framework de desenvolvimento de interfaces de usuário também desenvolvido pela Google, que permite criar aplicativos móveis nativos de alta qualidade para iOS e Android a partir de uma única base de código.</p>
+
+        </section>
+        
+        <section id="questionario">
+            <h1>Questionário</h1>
+            <form id="quizForm">
+                <ol>
+                    <li>
+                        <label for="pergunta2">Quantas linguagens foram mencionadas na Pesquisa?</label></br>
+                        <input type="radio" name="pergunta1" value="a">3 Linguagens</br>
+                        <input type="radio" name="pergunta1" value="b">4 Linguagens</br>
+                        <input type="radio" name="pergunta1" value="c">5 Linguagens</br>
+                        <input type="radio" name="pergunta1" value="d">6 Linguagens</br>
+                        <input type="radio" name="pergunta1" value="e">7 Linguagens</br>
+                    </li>
+                    <li>
+                        <label for="pergunta2">Qual é a linguagem mais usada atualmente para desenvolver com iOS e macOS?</label></br>
+                        <input type="radio" name="pergunta2" value="a">Java</br>
+                        <input type="radio" name="pergunta2" value="b">Kotlin</br>
+                        <input type="radio" name="pergunta2" value="c">Swift</br>
+                        <input type="radio" name="pergunta2" value="d">Objective-C</br>
+                        <input type="radio" name="pergunta2" value="e">Dart (com Flutter)</br>
+                    </li>
+                    <li>
+                        <label for="pergunta3">Que linguagem está mais obsoleta?</label></br>
+                        <input type="radio" name="pergunta3" value="a">Objective-C</br>
+                        <input type="radio" name="pergunta3" value="b">Java</br>
+                        <input type="radio" name="pergunta3" value="c">Dart</br>
+                        <input type="radio" name="pergunta3" value="d">Kotlin</br>
+                        <input type="radio" name="pergunta3" value="e">JavaScript</br>
+                    </li>
+                    
+                </ol>
+                <button type="button" onclick="verificarRespostas()">Enviar</button>
+            </form>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
