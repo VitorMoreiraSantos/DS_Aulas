@@ -1,0 +1,11 @@
+C:\Users\Alunos\Documents\DS_Aulas\DSI\Aula04\EditorDeCores\EditorDeCores\bin\Debug\EditorDeCores.exe.config
+C:\Users\Alunos\Documents\DS_Aulas\DSI\Aula04\EditorDeCores\EditorDeCores\bin\Debug\EditorDeCores.exe
+C:\Users\Alunos\Documents\DS_Aulas\DSI\Aula04\EditorDeCores\EditorDeCores\bin\Debug\EditorDeCores.pdb
+C:\Users\Alunos\Documents\DS_Aulas\DSI\Aula04\EditorDeCores\EditorDeCores\obj\Debug\EditorDeCores.csproj.AssemblyReference.cache
+C:\Users\Alunos\Documents\DS_Aulas\DSI\Aula04\EditorDeCores\EditorDeCores\obj\Debug\EditorDeCores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\Documents\DS_Aulas\DSI\Aula04\EditorDeCores\EditorDeCores\obj\Debug\EditorDeCores.Form1.resources
+C:\Users\Alunos\Documents\DS_Aulas\DSI\Aula04\EditorDeCores\EditorDeCores\obj\Debug\EditorDeCores.Properties.Resources.resources
+C:\Users\Alunos\Documents\DS_Aulas\DSI\Aula04\EditorDeCores\EditorDeCores\obj\Debug\EditorDeCores.csproj.GenerateResource.cache
+C:\Users\Alunos\Documents\DS_Aulas\DSI\Aula04\EditorDeCores\EditorDeCores\obj\Debug\EditorDeCores.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\DS_Aulas\DSI\Aula04\EditorDeCores\EditorDeCores\obj\Debug\EditorDeCores.exe
+C:\Users\Alunos\Documents\DS_Aulas\DSI\Aula04\EditorDeCores\EditorDeCores\obj\Debug\EditorDeCores.pdb
