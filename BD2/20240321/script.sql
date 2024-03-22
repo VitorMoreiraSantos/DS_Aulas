@@ -199,6 +199,15 @@ insert into item_pedido(cod_item_ped,num_pedido,cod_prod,quant) values (16,143,3
 
 insert into item_pedido(cod_item_ped,num_pedido,cod_prod,quant) values (17,143,78,10);
 
+/*Mostre o conteúdo das tabelas:*/
+/*Vendedor:*/
+select * from vendedor;
+/*Pedido:*/
+select * from pedido;
+/*Produto:*/
+select * from produto;
+/*Item do pedido:*/
+select * from item_pedido;
 
 /*Crie um relatório que mostre os vendedores (nome) com seu salário*/
 select nome_ven,salario_fixo from vendedor;
