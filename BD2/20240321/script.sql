@@ -199,3 +199,27 @@ insert into item_pedido(cod_item_ped,num_pedido,cod_prod,quant) values (16,143,3
 
 insert into item_pedido(cod_item_ped,num_pedido,cod_prod,quant) values (17,143,78,10);
 
+
+/*Crie um relatório que mostre os vendedores (nome) com seu salário*/
+select nome_ven,salario_fixo from vendedor;
+
+/*Mostre os dados dos produto com código menor que 132*/
+select * from produto where cod_prod < 132;
+
+/*Quem são os clientes de código: 130, 290 e 234.*/
+select * from cliente where cod_clie in (130,290,234);
+
+/*Mostre os pedidos realizados pelo vendedor de código: 250*/
+select * from pedido where cod_ven = 250;
+
+/*Mostre os produtos do pedido: 104*/
+select p.* from produto p inner join item_pedido ip on ip.cod_prod = p.cod_prod where ip.num_pedido = 104;
+
+/*Exiba o nome do cliente com código superior a 100 e que não more em São Paulo.*/
+select nome_clie from cliente where cod_clie > 100 and cidade <> 'São Paulo';
+
+/*Quais vendedores estão na categoria B com salário menor que R$2.500,00.*/
+select * from vendedor where comissao = 'B' and salario_fixo < 2500;
+
+/*Mostre os pedidos com seus produtos, classificados pelo código do pedido e pelo código do produto.*/
+select * from produto p inner join item_pedido ip on ip.cod_prod = p.cod_prod order by ip.num_pedido asc, p.cod_prod asc;
