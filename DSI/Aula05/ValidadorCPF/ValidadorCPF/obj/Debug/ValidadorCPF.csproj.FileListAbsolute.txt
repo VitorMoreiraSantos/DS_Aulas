@@ -1,0 +1,11 @@
+C:\Users\Alunos\source\repos\ValidadorCPF\ValidadorCPF\bin\Debug\ValidadorCPF.exe.config
+C:\Users\Alunos\source\repos\ValidadorCPF\ValidadorCPF\bin\Debug\ValidadorCPF.exe
+C:\Users\Alunos\source\repos\ValidadorCPF\ValidadorCPF\bin\Debug\ValidadorCPF.pdb
+C:\Users\Alunos\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.Form1.resources
+C:\Users\Alunos\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.Properties.Resources.resources
+C:\Users\Alunos\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.exe
+C:\Users\Alunos\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.pdb
